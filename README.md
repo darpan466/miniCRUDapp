@@ -3,7 +3,7 @@
 # Installing the app 
   * step 1: open the project in vscode
   * step 2: create a new cluster in your mongoDB account and copy the mongoDB url string for your database
-  * step 3: in project folder open .env.example file and enter your mongodb url string
+  * step 3: in project folder open .env.example file and enter your mongodb url string and rename file to .env 
   * step 4: after editing the above file, rename the file from .env.example to .env
   * step 5: run the command : npm i in integrated terminal to install the dependencies
   * step 6: run the command : npm start in the integrated terminal to start the server.
