@@ -13,7 +13,7 @@
 # APIs
   * To create a new user make post request on the following route with user data as request body: 
     * YOUR_HOST_ADDRESS/api/user/create
-  * To update data of an existing user make put request on the following route with updated data as request body and user id as url parameter: 
+  * To update an existing user make put request on the following route with updated data as request body and user id as url parameter: 
     * YOUR_HOST_ADDRESS/api/user/update/:id
   * To delete a user make a delete request on the folllowing route with user id as url parameter: 
     * YOUR_HOST_ADDRESS/api/user/delete/:id
